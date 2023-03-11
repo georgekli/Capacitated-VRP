@@ -1,5 +1,5 @@
 # Capacitated-VRP
-Using GRASP to solve Capacitated VRP problem
+Using GRASP to solve Multi-Trip Capacitated VRP problem
 
 The problem is stated at problem.txt file where the lines state the following:
 
